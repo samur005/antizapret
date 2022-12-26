@@ -1,8 +1,0 @@
-{
-    "name": "proximacentavra",
-    "description": "proxima"
-    "env": {
-        "PASSWORD": {
-            "description": "PASSWORD",
-            "value": "password"
-}
