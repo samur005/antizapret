@@ -1,10 +1,8 @@
 {
     "name": "proximacentavra",
-    "description": "proxima to Heroku."
+    "description": "proxima"
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
-        }
-    }
 }
